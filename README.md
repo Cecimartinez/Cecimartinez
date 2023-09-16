@@ -16,7 +16,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQLServer](https://img.shields.io/badge/-SQLServer-black?style=flat-square&logo=sqlserver)
+![SQLServer](https://img.shields.io/badge/-Sql%20Server-black?style=flat-square&logo=microsoft-sql-server)
 ![MySql](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss)
@@ -27,5 +27,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![Vite](https://img.shields.io/badge/-vite-black?style=flat-square&logo=vite)
+![Npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio) 
+![Powershell](https://img.shields.io/badge/-Powershell-black?style=flat-square&logo=powershell)
 
 ---
