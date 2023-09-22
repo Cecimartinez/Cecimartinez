@@ -6,6 +6,7 @@
 ![Animación de ejemplo](ceciDEV-Banner.gif)
 
 ## Full Stack Developer 👨‍💻
+Soy desarrolladora Fullstack React autodidacta apasionada por el desarrollo de software. Me considero una pensadora creativa y lógica, capaz de abordar desafíos complejos y buscar soluciones innovadoras. Me encanta trabajar en equipo, aprender y colaborar con otros desarrolladores.
 
 ### 🛠️ Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
