@@ -9,6 +9,7 @@
 Soy desarrolladora Fullstack React autodidacta apasionada por el desarrollo de software. Me considero una pensadora creativa y lógica, capaz de abordar desafíos complejos y buscar soluciones innovadoras. Me encanta trabajar en equipo, aprender y colaborar con otros desarrolladores.
 
 ### 🛠️ Languages and Tools:
+![Astro](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=astro)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
