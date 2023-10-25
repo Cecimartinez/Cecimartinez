@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Cecimartinez)
 [![Linkedin: Cecilia Martinez 🚀 ](https://img.shields.io/badge/-Cecilia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/cecilia-mart%C3%ADnez-%E2%9A%9B%EF%B8%8F-%F0%9F%9A%80-7420a524a)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:martinezcecilia2707@gmail)
-![Animación de ejemplo](ceciDEV-Banner.gif)
+![Animación de ejemplo](ceciDEV-Banner(3).gif)
 
 ## Full Stack Developer 👨‍💻
 Soy desarrolladora Fullstack React autodidacta apasionada por el desarrollo de software. Me considero una pensadora creativa y lógica, capaz de abordar desafíos complejos y buscar soluciones innovadoras. Me encanta trabajar en equipo, aprender y colaborar con otros desarrolladores.
