@@ -1,4 +1,4 @@
-# 💜  Welcome to My GitHub Profile! 👋🏼 
+# 🤍  Welcome to My GitHub Profile! 👋🏼
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Cecimartinez)
 [![Linkedin: Cecilia Martinez 🚀 ](https://img.shields.io/badge/-Cecilia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/cecilia-mart%C3%ADnez-%E2%9A%9B%EF%B8%8F-%F0%9F%9A%80-7420a524a)
@@ -6,7 +6,9 @@
 ![Animación de ejemplo](CeciDev.gif)
 
 ## Full Stack Developer 👨‍💻
-Soy desarrolladora Fullstack React autodidacta apasionada por el desarrollo de software. Me considero una pensadora creativa y lógica, capaz de abordar desafíos complejos y buscar soluciones innovadoras. Me encanta trabajar en equipo, aprender y colaborar con otros desarrolladores.
+🚀 I'm a freelance developer and UX/UI designer on a mission to craft digital experiences that captivate and inspire. 🎨✨
+With a passion for technology and a keen eye for design, I specialize in creating user-friendly, visually stunning solutions. 💻🌟
+My goal is to bring your ideas to life and make them shine in the digital world. 💡✨ Let's work together to turn your vision into reality! 💪🤝
 
 ### 🛠️ Languages and Tools:
 ![Astro](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=astro)
