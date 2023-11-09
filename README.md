@@ -9,7 +9,7 @@
 With a passion for technology and a keen eye for design, I specialize in creating user-friendly, visually stunning solutions. 💻🌟
 My goal is to bring your ideas to life and make them shine in the digital world. ✨ Let's work together to turn your vision into reality! 💪🤝
 
-### Languages and Tools 💡
+### Skills 💡
 ![Astro](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=astro)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
