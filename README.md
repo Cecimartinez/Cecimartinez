@@ -19,6 +19,8 @@ My goal is to bring your ideas to life and make them shine in the digital world.
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)
+![.NET](https://img.shields.io/badge/-.NET-000000?style=flat&logo=.net)
 ![SQLServer](https://img.shields.io/badge/-Sql%20Server-black?style=flat-square&logo=microsoft-sql-server)
 ![MySql](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
